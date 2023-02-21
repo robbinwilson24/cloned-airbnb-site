@@ -15,7 +15,7 @@ A cloned version of the Airbnb website. This is was my first attempt at cloning 
 
 
 
-##Full Description: <a name="program-description"/>
+## Full Description: <a name="program-description"/>
 This was my first attempt at cloning a real-world website - the Airbnb website. I created this to showcase my ability to create web pages using React.js and CSS. The project also includes components from React-Bootstrap.
 
 This project has limited functionality, but it focuses on the aesthetics and layout of the website. It includes the following features:
@@ -25,19 +25,19 @@ This project has limited functionality, but it focuses on the aesthetics and lay
 - A secondary navigation bar with icons to link to the various property types (non-functional - but they do have CSS applied to make them respond to the cursor)
 - Footer with links to different sections of the real-world website.
 
-##Future Improvements:<a name="future-improvements"/>
+## Future Improvements:<a name="future-improvements"/>
 I intend to add more functionality to this page as my coding knowledge develops. 
 I aim to add the following :
 - A functional search bar with working date selector. 
 - A basic user login/authentication.
 - Multiple images in the same listing card that the user can click through.
 
-##Technologies used:<a name="technologies"/>
+## Technologies used:<a name="technologies"/>
 - React.js
 - CSS
 - React-Bootstrap
 
-##How to install and view the page: <a name="how-to-install"/>
+## How to install and view the page: <a name="how-to-install"/>
 To install and view the page, follow these steps:
 
 1. Clone the repository to your local machine. 
@@ -55,12 +55,12 @@ To install and view the page, follow these steps:
 7.This will usually automatically open a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser.
 
 
-##Diclaimer:<a name="disclaimer"/>
+## Diclaimer:<a name="disclaimer"/>
 Please note that this project is not for profit and all rights belong to Airbnb. Credit for the initial design and development of the page goes to the original developers of this Airbnb website. 
 This project is intended to be used for demonstration and learning purposes only.
 
 
-###Credits:<a name="credits"/>
+### Credits:<a name="credits"/>
 This page was coded by me alone , but I would like to acknowledge the following that helped me to build the page and aided in the final product:
     - Airbnb for the original website design, and inspiration for this project. 
     - The official React-Bootstrap website for assistance on using various React-Bootstrap components (https://react-bootstrap-v3.netlify.app/)
