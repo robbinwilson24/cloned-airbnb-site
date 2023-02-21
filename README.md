@@ -70,6 +70,7 @@ This project is intended to be used for demonstration and learning purposes only
 
 ### Credits:<a name="credits"/>
 This page was coded by me alone , but I would like to acknowledge the following that helped me to build the page and aided in the final product:
-    - Airbnb for the original website design, and inspiration for this project. 
-    - The official React-Bootstrap website for assistance on using various React-Bootstrap components (https://react-bootstrap-v3.netlify.app/)
-    - IconFinder - The website where I got the icons used on the page (https://www.iconfinder.com/)
+
+    -   Airbnb for the original website design, and inspiration for this project. 
+    -   The official React-Bootstrap website for assistance on using various React-Bootstrap components (https://react-bootstrap-v3.netlify.app/)
+    -   IconFinder - The website where I got the icons used on the page (https://www.iconfinder.com/)
