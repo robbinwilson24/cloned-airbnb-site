@@ -44,14 +44,17 @@ To install and view the page, follow these steps:
 2. Extract all of the files and folders from the zipped folder.
 3. Navigate to the folder that contains the 'package' and 'package-lock' files. 
 4. In the file root path bar ( above the folders ) , Type in CMD to open command prompt: 
+5. 
 ![image](https://user-images.githubusercontent.com/123034061/220369949-febe92f6-adf6-465f-b492-18a8c9a25f43.png)
 
 ![image](https://user-images.githubusercontent.com/123034061/220370249-e95b3074-9c7d-4a98-aebb-844a3782ef28.png)
 
 5. Once command prompt is open, in the command line, install the required dependencies by typing and running the following -  **"npm install"** 
+
 ![image](https://user-images.githubusercontent.com/123034061/220371237-f24d3dae-ed52-478a-a7fb-de0ca27d6bea.png)
 
 6. Once this has finished installing, you can start the game by running the following in the command line -  **"npm start".**
+
 7.This will usually automatically open a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser.
 
 
