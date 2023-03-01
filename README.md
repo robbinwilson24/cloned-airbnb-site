@@ -3,15 +3,10 @@ A cloned version of the Airbnb website. This is was my first attempt at cloning 
 
 ### Table of Contents
 1.[Full Description](#program-description)
-
 2.[Future Improvements](#future-improvements)
-
 3.[Technologies Used](#technologies)
-
 4.[How to install](#how-to-install)
-
 5.[Disclaimer](#disclaimer)
-
 6.[Credits](#credits)
 
 
