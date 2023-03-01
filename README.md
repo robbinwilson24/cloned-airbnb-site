@@ -2,13 +2,13 @@
 A cloned version of the Airbnb website. This is was my first attempt at cloning a real-world website. Coded using React, CSS and React-Bootstrap components.
 
 ### Table of Contents
-1.[Full Description](#program-description)
-2.[Future Improvements](#future-improvements)
-3.[Technologies Used](#technologies)
-4.[How to install](#how-to-install)
-5.[Disclaimer](#disclaimer)
-6.[Credits](#credits)
-
+1. [Full Description](#program-description)
+2. [Future Improvements](#future-improvements)
+3. [Technologies Used](#technologies)
+4. [How to install](#how-to-install)
+5. [Disclaimer](#disclaimer)
+6. [Credits](#credits)
+ 
 
 
 ![image](https://user-images.githubusercontent.com/123034061/220369317-a9d1bf50-73bd-4321-affc-25bdbd99d6f5.png)
