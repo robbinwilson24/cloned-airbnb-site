@@ -1,5 +1,5 @@
 # Cloned-Airbnb-site
-A cloned version of the Airbnb website. This is was my first attempt at cloning a real-world website. Coded using React, CSS and React-Bootstrap components.
+A cloned version of the Airbnb website. Coded using React, CSS and React-Bootstrap components.
 
 ### Table of Contents
 1. [Full Description](#program-description)
