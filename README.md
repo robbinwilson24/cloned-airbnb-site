@@ -8,15 +8,11 @@ A cloned version of the Airbnb website. Coded using React, CSS and React-Bootstr
 4. [How to install](#how-to-install)
 5. [Disclaimer](#disclaimer)
 6. [Credits](#credits)
- 
-
 
 ![image](https://user-images.githubusercontent.com/123034061/220369317-a9d1bf50-73bd-4321-affc-25bdbd99d6f5.png)
 
-
-
 ## Full Description: <a name="program-description"/>
-This was my first attempt at cloning a real-world website - the Airbnb website. I created this to showcase my ability to create web pages using React.js and CSS. The project also includes components from React-Bootstrap.
+This is my first clone of a real-world website - the Airbnb website. I created this to showcase my ability to create web pages using React.js and CSS. The project also includes components from React-Bootstrap.
 
 This project has limited functionality, but it focuses on the aesthetics and layout of the website. It includes the following features:
 
